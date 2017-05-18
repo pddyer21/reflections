@@ -23,5 +23,8 @@ Diagrams give an overall visualization of the commit and branch history. It allo
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The commits in each branch are interleaved into one branch and sorted by time stamp. It is represented in the diagram as it is to show the commit history.
+
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
