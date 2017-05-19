@@ -28,3 +28,6 @@ The commits in each branch are interleaved into one branch and sorted by time st
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+Pros: Efficient, especially when calaborating 
+Cons: Cannot fix conflicts automatically
