@@ -5,3 +5,11 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	To limit the number of commits, or updates to files. To ensure I pull only after    
          logical changes.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+- A fork is produced only on Github when I copy someone else's repository. Used if I want access to another repository without changing the original.
+
+- A clone is produced by coping a repository from Github to a local machine. Used when I want to make changes to the repository, on my machine, not on Github.
+
+- A branch is a pointer from a master branch onto which there are a series of commits. Used when I need to experiment with changes to a master branch without affect the master itself. A some point the branch can be merged with the master.
