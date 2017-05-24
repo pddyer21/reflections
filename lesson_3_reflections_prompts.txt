@@ -13,3 +13,8 @@ Describe the differences between forks, clones, and branches. When would you use
 - A clone is produced by coping a repository from Github to a local machine. Used when I want to make changes to the repository, on my machine, not on Github.
 
 - A branch is a pointer from a master branch onto which there are a series of commits. Used when I need to experiment with changes to a master branch without affect the master itself. A some point the branch can be merged with the master.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    It helps to keep track of previous state on the remote.
