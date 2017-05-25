@@ -22,3 +22,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
     I would use emails to transfer files. it would be harder since I would have to write detailed information about changes. Github finds changes automatically.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+     The master contains the main project. All other branches are development and testing branches. So it is safer to make changes in a separate branch, test then to make sure they are okay before merging into the master branch. 
